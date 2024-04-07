@@ -211,7 +211,7 @@ params:
 
       - title: Modernizing KnowQuest's Infrastructure 
         content: "Enhanced KnowQuest's web infrastructure using AWS, Kubernetes, and EC2, boosting scalability and securing systems. Automated the CI/CD pipeline with YAML, optimizing the development lifecycle and deployment efficiency. Strengthened security and monitoring by implementing CloudWatch and RBAC. Optimized network performance with Kubernetes, CoreDNS, and Ingress Controller, achieving unparalleled system efficiency."
-        image: /images/projects/text_summary.jpg
+        image: /images/projects/knowquest.jpeg
         featured:
           name: View Project
           link: https://github.com/AnanyaKakani/Modernizing-KnowQuest-Infrastructure
@@ -222,7 +222,7 @@ params:
 
       - title: Serverless Image Analysis and Management System 
         content: "Implemented a serverless architecture for automated image analysis with AWS services like S3, SQS, Lambda, and Rekognition, markedly improving efficiency and accuracy. Developed an event-driven workflow for processing image uploads and analyzing content with AWS Rekognition, coupled with result communication through SNS, showcasing cloud solutions expertise. Crafted and deployed an AWS S3 lifecycle policy to optimize image storage and retention, achieving compliance and cost efficiency via automated data management."
-        image: /images/projects/yelp.jpg
+        image: /images/projects/amazonserverless.jpeg
         featured:
           name: View Project
           link: https://github.com/manmitha-p/Yelp-Data-Analysis-for-Business-Performance-
@@ -234,7 +234,7 @@ params:
 
       - title: Interactive COVID-19 Awareness Website 
         content: "Developed a dynamic COVID-19 awareness website using HTML, CSS, and JavaScript, integrating WHO open-source APIs for real-time data visualization. Added user-centric features including login, registration, and an intuitive information display, enhancing user engagement and accessibility."
-        image: /images/projects/disneycloud.png
+        image: /images/projects/corona.jpeg
         featured:
           name: View Project
           link: https://github.com/AnanyaKakani/UpdatesOfCovid19
@@ -248,7 +248,7 @@ params:
 
       - title: "Secure and Efficient Skyline Queries on Encrypted Data"
         content: "Developed a secure healthcare system using Flask, featuring encrypted file uploads and strict data privacy protocols. Introduced JWT for user authentication, registration, and session management among healthcare providers and users. Utilized Fernet encryption to safeguard patient data confidentiality, emphasizing data security. Showcased proficiency in web development, cloud architecture, and advanced security measures."
-        image: /images/projects/retail.jpeg
+        image: /images/projects/skyline.png
         featured:
           name: View Project
           link: https://github.com/AnanyaKakani/skyline-project

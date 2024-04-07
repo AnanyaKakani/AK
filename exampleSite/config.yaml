@@ -109,7 +109,7 @@ params:
     title: "Ananya."
     subtitle: "Cloud Enthusiast"
     content: "A cloud Enthusiast with a focus on AWS, Combining a strong background in Salesforce platform to drive strategic innovations and solutions. Skilled in transforming complex challenges into actionable strategies through the power of cloud technologies."
-    image: "/images/Me.jpg"
+    image: "/images/me.jpg"
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -128,7 +128,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/Me.jpg"
+    image: "/images/me.jpg"
     content: |-
       As a passionate cloud enthusiast with a specialization in AWS, I bring together a solid foundation in cloud computing, gained from my Master of Science in Information Science with a concentration on Cloud Computing from Northeastern University, along with hands-on experience on the Salesforce platform acquired through my work at PwC. I have a knack for simplifying complex challenges into practical strategies using cloud technology, with a goal to drive innovation and create a lasting impact in the tech industry.
     skills:

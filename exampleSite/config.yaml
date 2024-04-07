@@ -169,7 +169,7 @@ params:
           - "Worked on converting the existing complex Aura Components to Lightning Web Components."
 
   # Education
-  education:
+    education:
     enable: true
     # title: "Custom Name"
     index: false
@@ -179,16 +179,18 @@ params:
           name: "Northeastern University, Boston"
         date: "2022 - 2024"
         content: "Concentration: Cloud Computing"
+        GPA: "3.8 out of 4.0"
         content: |-
           Relevant Coursework:
             - "Advanced Cloud Computing Management, Network Security and Cloud Security, Web Design and Development, AWS Cloud Architecting, Enterprise Data Storage and Management, Cloud Analytics"
-        title: "Bachelors of Technology in Computer Science and Engineering"
+      - title: "Bachelors of Technology in Computer Science and Engineering"
         school:
           name: "Jawaharlal Nehru Technological University"
         date: "2017 - 2021"
         content: |-
           Relevant Coursework:
-            - Cloud Computing, Web Design and Development, DBMS, JavaScript, Python Programming, Problem Solving and Data Structures through C, Data Structures through C++, Object Oriented Programming through Java"
+            - "Cloud Computing, Web Design and Development, DBMS, JavaScript, Python Programming, Problem Solving and Data Structures through C, Data Structures through C++, Object Oriented Programming through Java"
+
   # projects
   projects:
     enable: true
@@ -196,6 +198,7 @@ params:
     items:
       - title: AI-Enhanced Supplier Diversity GenAI Chatbot 
         content: "I led the development of a user-focused, AI-powered chatbot's front-end, enhancing engagement through research-driven design and seamless API integration for responsive and intuitive interactions in the higher education procurement space."
+        image: /images/projects/project1.png
         featured:
           name: View Project
           link: https://github.com/manmitha-p/Predictive-Analysis

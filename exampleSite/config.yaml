@@ -169,7 +169,7 @@ params:
           - "Worked on converting the existing complex Aura Components to Lightning Web Components."
 
   # Education
-    education:
+  education:
     enable: true
     # title: "Custom Name"
     index: false

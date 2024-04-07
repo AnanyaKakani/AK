@@ -184,14 +184,14 @@ params:
         GPA: "3.8 out of 4.0"
         content: |-
           Relevant Coursework:
-            - "Advanced Cloud Computing Management, Network Security and Cloud Security, Web Design and Development, AWS Cloud Architecting, Enterprise Data Storage and Management, Cloud Analytics"
+            - Advanced Cloud Computing Management, Network Security and Cloud Security, Web Design and Development, AWS Cloud Architecting, Enterprise Data Storage and Management, Cloud Analytics
       - title: "Bachelors of Technology in Computer Science and Engineering"
         school:
           name: "Jawaharlal Nehru Technological University"
         date: "2017 - 2021"
         content: |-
           Relevant Coursework:
-            - "Cloud Computing, Web Design and Development, DBMS, JavaScript, Python Programming, Problem Solving and Data Structures through C, Data Structures through C++, Object Oriented Programming through Java"
+            - Cloud Computing, Web Design and Development, DBMS, JavaScript, Python Programming, Problem Solving and Data Structures through C, Data Structures through C++, Object Oriented Programming through Java
 
   # projects
   projects:

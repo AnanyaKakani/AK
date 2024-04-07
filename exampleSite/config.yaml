@@ -109,7 +109,7 @@ params:
     title: "Ananya."
     subtitle: "Cloud Enthusiast"
     content: "A cloud Enthusiast with a focus on AWS, Combining a strong background in Salesforce platform to drive strategic innovations and solutions. Skilled in transforming complex challenges into actionable strategies through the power of cloud technologies."
-    image: /images/Me.jpg
+    image: "/images/Me.jpg"
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -137,7 +137,10 @@ params:
       items:
         - "AWS"
         - "CRM: Salesforce"
-        - "Languages: JavaScript, Java, Python3, Apex"
+        - "JavaScript"
+        - "Java"
+        - "Python3"
+        - "Apex"
         - "Frameworks: Lightning Web Components, Spring Boot, Hibernate"
         - "Software Architecture: Microservice architecture (Eureka), Restful Services, Web Services."
         - "Database: MySQL, MongoDB."
@@ -175,6 +178,7 @@ params:
         content: |-
           Relevant Coursework:
             - "Advanced Cloud Computing Management, Network Security and Cloud Security, Web Design and Development, AWS Cloud Architecting, Enterprise Data Storage and Management, Cloud Analytics"
+        title: "Bachelors of Technology in Computer Science and Engineering"
         school:
           name: "Jawaharlal Nehru Technological University"
         date: "2017 - 2021"

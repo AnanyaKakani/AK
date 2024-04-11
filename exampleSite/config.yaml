@@ -116,7 +116,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://drive.google.com/file/d/1qVcIJ4hqqMttRaweZWynGQj3ke4Gr9bV/view?usp=sharing"
+      url: "https://docs.google.com/document/d/14w816lycldCwYy4Pf2ElTVaX4jll5WRv/edit?usp=sharing&ouid=100552075006892431043&rtpof=true&sd=true"
       download: true
       newPage: false
     socialNetworks:
@@ -159,16 +159,13 @@ params:
         company: "PricewaterhouseCoopers  (PwC)"
         date: "September 2021 - September 2022"
         content: |-
-          - Developed Lightning components utilizing the Aura Framework to enhance system efficiency and reduce reliance on extensive queries.
-          - Optimized data retrieval methods to ensure high-performance application functionality within Salesforce Health Cloud environments.
+          - Engaged in Salesforce configurations (Profiles, OWD, Permission Sets...), and also customizations such as Apex batch classes, triggers, and process builders and using SOQL and SOSL queries to fetch data from database and show the data in UI.
           - Configured Salesforce Health Cloud standard components, including Patient Timeline and Patient Card, to improve user experience and accessibility.
-          - Developed and implemented Salesforce configurations, including basic Apex batch classes and triggers, enhancing database interaction and UI data representation.
-          - Worked on Visualforce pages, Lightning Web Components, Aura Components, Static Resources and many in-built Salesforce features. 
-            Utilized libraries like JQuery, BootStrap to make the User Interface dynamic and highly responsive.
-          - Implemented JavaScript custom events instead Salesforce component events to bypass the framework and decrease the loading time. 
-            Utilized localStorage (JS API) for seamless customer experience.
+          - Worked on Visualforce pages, Lightning Web Components, Aura Components, Static Resources, and many in-built Salesforce features. Utilized libraries like jQuery, Bootstrap to make the User Interface dynamic and highly responsive.
+          - Implemented JavaScript custom events instead Salesforce component events to bypass the framework and decrease the loading time. Utilized localStorage (JS API) for seamless customer experience.
           - Implemented the Integration of more than 30 API’s using Long-running Callouts with Continuation using REST API.
           - Worked on converting the existing complex Aura Components to Lightning Web Components.
+
 
   # Education
   education:
@@ -176,7 +173,7 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Masters in Information Science"
+      - title: "Masters in Informatics"
         school:
           name: "Northeastern University, Boston"
         date: "2022 - 2024"
@@ -203,7 +200,7 @@ params:
         image: /images/projects/project1.png
         featured:
           name: View Project
-          link: https://github.com/manmitha-p/Predictive-Analysis
+          link: https://github.com/AnanyaKakani/ 
         badges:
           - "Experiential Learning Capstone Project"
           - "JavScript"

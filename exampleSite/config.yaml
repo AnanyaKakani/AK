@@ -116,7 +116,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://docs.google.com/document/d/14w816lycldCwYy4Pf2ElTVaX4jll5WRv/edit?usp=sharing&ouid=100552075006892431043&rtpof=true&sd=true"
+      url: "https://drive.google.com/file/d/1xyzoT0z9sK_X-dokDrtkCdmcejwvF67Q/view?usp=drive_link"
       download: true
       newPage: false
     socialNetworks:

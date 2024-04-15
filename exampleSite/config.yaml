@@ -278,17 +278,17 @@ params:
           - "HTML"
           - "CSS"
 
-      - title: "Secure and Efficient Skyline Queries on Encrypted Data"
-        content: "Developed a secure healthcare system using Flask, featuring encrypted file uploads and strict data privacy protocols. Introduced JWT for user authentication, registration, and session management among healthcare providers and users. Utilized Fernet encryption to safeguard patient data confidentiality, emphasizing data security. Showcased proficiency in web development, cloud architecture, and advanced security measures."
-        image: /images/projects/skyline.png
-        featured:
-          name: View Project
-          link: https://github.com/AnanyaKakani/skyline-project
-        badges:
-          - "Python"
-          - "Firebase"
-          - "MySQL"
-          - "Flask"
+      # - title: "Secure and Efficient Skyline Queries on Encrypted Data"
+      #   content: "Developed a secure healthcare system using Flask, featuring encrypted file uploads and strict data privacy protocols. Introduced JWT for user authentication, registration, and session management among healthcare providers and users. Utilized Fernet encryption to safeguard patient data confidentiality, emphasizing data security. Showcased proficiency in web development, cloud architecture, and advanced security measures."
+      #   image: /images/projects/skyline.png
+      #   featured:
+      #     name: View Project
+      #     link: https://github.com/AnanyaKakani/skyline-project
+      #   badges:
+      #     - "Python"
+      #     - "Firebase"
+      #     - "MySQL"
+      #     - "Flask"
 
 
 

@@ -128,7 +128,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me1.jpg"
+    image: "/images/Rise profile.jpg"
     content: |-
       As a passionate cloud enthusiast with a specialization in AWS, 
       I bring together a solid foundation in cloud computing, 
@@ -205,7 +205,7 @@ params:
         image: /images/projects/genaichatbot.png
         featured:
           name: View Project
-          link: https://github.com/AnanyaKakani/ 
+          link: https://github.com/AnanyaKakani/AI-Enhanced-Supplier-Diversity-GenAI-Chatbot 
         badges:
           - "Experiential Learning Capstone Project"
           - "JavScript"
